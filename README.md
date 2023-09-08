@@ -13,3 +13,14 @@
 ### **Added the utils class and test files** ###
 ![Alt text](screenshots/utilsclass.png)
 ![Alt text](screenshots/utilstests.png)
+
+### **Rebasing branch rebase onto branch develop** ###
+![Alt text](screenshots/checkoutrebase.png)
+
+![Alt text](screenshots/rebasedevelop.png)
+
+![Alt text](screenshots/rebasecommit.png)
+
+![Alt text](screenshots/pushdevelop.png)
+
+![Alt text](screenshots/rebasequit.png)
